@@ -33,6 +33,6 @@
 
         // Indent guide line color
         "editorIndentGuide.activeBackground": "#ffffff16",
-        "editorIndentGuide.background": "#ffffff8"        
+        "editorIndentGuide.background": "#ffffff08"        
     }
 }
