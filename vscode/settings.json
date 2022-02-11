@@ -17,6 +17,7 @@
     "window.dialogStyle": "custom",
     "window.titleBarStyle": "custom",
     "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
+    "workbench.editor.splitSizing": "distribute",
     
     // Vs code editor
     "breadcrumbs.enabled": false,
