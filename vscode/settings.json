@@ -1,0 +1,38 @@
+{
+    // Disable telemetry reporting
+    "telemetry.telemetryLevel": "off",
+
+    // Font settings
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontWeight": "normal",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.letterSpacing": 0,
+
+    // Vs code appearance
+    "workbench.iconTheme": "vs-nomo-dark",
+    "workbench.colorTheme": "Default Dark+",
+
+    // Vs code windows
+    "window.dialogStyle": "custom",
+    "window.titleBarStyle": "custom",
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
+    
+    // Vs code editor
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.padding.top": 32,
+    "editor.padding.bottom": 32,
+    "editor.roundedSelection": false,
+    "editor.linkedEditing": true,
+
+    "workbench.colorCustomizations": {
+        // Disable shadows
+        "scrollbar.shadow": "#00000000",
+        "widget.shadow": "#00000000",
+
+        // Indent guide line color
+        "editorIndentGuide.activeBackground": "#ffffff16",
+        "editorIndentGuide.background": "#ffffff8"        
+    }
+}
